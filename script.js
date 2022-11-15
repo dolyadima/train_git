@@ -1,3 +1,3 @@
 "use strict";
 
-console.log(" new_text ");
+console.log(" new_text_2 ");
