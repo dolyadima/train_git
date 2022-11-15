@@ -1,3 +1,3 @@
 "use strict";
 
-console.log(" gg wp ");
+console.log(" new_text ");
