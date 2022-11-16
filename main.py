@@ -2,3 +2,7 @@
 
 print(f"Text 1 Text 1")
 
+print(f"Another text2")
+print(f"Another text3")
+print(f"Another text4")
+
