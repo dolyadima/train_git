@@ -1,5 +1,10 @@
 #!/usr/bin/python3
 
+from env import *
+
+print(f"{U_NAME=}")
+print(f"{U_PASS=}")
+
 print(f"Text 1 Text 1")
 
 print(f"Another text2")
