@@ -13,6 +13,7 @@ git pull
 ```
 
 ```
-cp env.py.example env.py
+git reset --hard HEAD~2
+git reabse -i <hash commit>
 ```
 
