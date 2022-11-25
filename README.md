@@ -14,6 +14,6 @@ git pull
 
 ```
 git reset --hard HEAD~2
-git reabse -i <hash commit>
+git rebase -i <hash commit>
 ```
 
